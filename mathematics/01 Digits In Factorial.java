@@ -1,8 +1,7 @@
-Used Java 
-HInts :
-https://www.geeksforgeeks.org/count-digits-factorial-set-1/
+//Used Java 
+//HInts : https://www.geeksforgeeks.org/count-digits-factorial-set-1/
 
-We know,
+/* We know,
 log(a*b) = log(a) + log(b)
 
 Therefore
@@ -17,6 +16,7 @@ Hence, output would be : floor(log(n!)) + 1.
 
 
 Code:
+*/
 
 // Java program to find the number 
 // of digits in a factorial 
