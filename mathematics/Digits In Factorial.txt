@@ -1,5 +1,6 @@
 Used Java 
 HInts :
+https://www.geeksforgeeks.org/count-digits-factorial-set-1/
 
 We know,
 log(a*b) = log(a) + log(b)
