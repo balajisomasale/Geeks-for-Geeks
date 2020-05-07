@@ -1,8 +1,7 @@
 
-Hints :
+//Hints :
 
-//primality Test 
-https://youtu.be/AaNUzEHiDpI 
+//primality Test : https://youtu.be/AaNUzEHiDpI 
 
 class Primality 
 {
