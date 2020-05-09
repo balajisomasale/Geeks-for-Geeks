@@ -1,0 +1,27 @@
+Given a set represented as string, write a recursive code to print all subsets of it. The subsets can be printed in any order.
+
+Examples:
+Input :  set = "abc"
+Output : "". "a", "b", "c", "ab", "ac", "bc", "abc"
+
+Input : set = "abcd"
+Output : "" "a" "ab" "abc" "abcd" "abd" "ac" "acd"
+         "ad" "b" "bc" "bcd" "bd" "c" "cd" "d"
+
+The idea is to consider two cases for every character. (i) Consider current character as part of current subset (ii) Do not consider current character as part of current subset.
+
+Let us understand the recursion with an example "abc". Every node in below tree represents string curr.
+
+						curr=""
+						/      \
+					      "a"	""
+					      / \       /  \
+					   "ab"  "a"   "b"  ""
+					  / \    / \   / \  / \
+				        abc ab  ac a  bc b  c  ""
+
+
+At root, index = 0.
+At next level of tree index = 1
+At third level, index = 2
+At fourth level index = 3 (becomes equal to string length), so we print the subset.
