@@ -1,4 +1,6 @@
-Geometric Algorithms
+**Geometric Algorithms**
+Youtube Tutorial : https://www.youtube.com/watch?v=VZdpAu7wgBU  
+
 
 
 Geometric algorithms are more commonly known by the name Computational Geometry. These algorithms are designed to solve geometric problems and are stated in terms of geometry. Geometric algorithms require in-depth knowledge of different mathematical subjects like topology, algebra and differential geometry.  For example, topological maps, and computer-aided design and manufacturing are examples of the need for geometric algorithms.  In fact, the use of geometric algorithms dates to the building of the pyramids.  Most recently, geometric algorithms have become essential in the world or virtual and augmented reality design.
