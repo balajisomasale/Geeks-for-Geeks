@@ -9,13 +9,13 @@ There are numerous sorting algorithms such as:
 
 **Insertion Sort** – Insertion sort is a simple sorting algorithm that builds the final sorted array (or list) one item at a time. An insertion sort is less efficient on large lists than more advanced algorithms such as quicksort, heapsort, or merge sort.
 <br> 
-A simple example of insertion sort is when people manually sort cards in their hand to they have a clearer picture of how to play their cards. Insertion sorts provide several advantages:
+A simple example of insertion sort is when people manually sort cards in their hand to they have a clearer picture of how to play their cards. <br> **Insertion sorts provide several advantages:
 <br>
 Simple implementation
 <br>
 Efficient for very small data sets, can sort a list as it receives it
 <br>
-Memory efficient 
+Memory efficient **
 <br>
 **Selection Sort** - The Selection sort algorithm is based on the idea of finding the minimum or maximum element in an unsorted array and then putting it in its correct position in a sorted array.
 
