@@ -3,7 +3,7 @@
 #You have been asked to explore an algorithm that checks if two lines intersect.
 
 
-Objective :  Check if two line segments intersect.
+#Objective :  Check if two line segments intersect.
 
 
 class Point:
