@@ -15,7 +15,7 @@ Simple implementation
 <br>
 Efficient for very small data sets, can sort a list as it receives it
 <br>
-Memory efficient **
+Memory efficient**
 <br>
 **Selection Sort** - The Selection sort algorithm is based on the idea of finding the minimum or maximum element in an unsorted array and then putting it in its correct position in a sorted array.
 
